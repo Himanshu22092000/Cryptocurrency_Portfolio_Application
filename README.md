@@ -34,6 +34,9 @@ Track your cryptocurrency holdings/portfolio with an open-source desktop applica
 ### Update coin
 <img width="784" alt="image" src="https://user-images.githubusercontent.com/96567363/173559486-dba802a8-6b9e-4fea-b39e-421def48ebc4.png">
 
+## Future scope
+Going to add prices predictions section by using **Machine Learning**.
+
 #### Thanks for visiting ;)
 
 
