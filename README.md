@@ -1,5 +1,6 @@
 # Cryptocurrency_Portfolio_Application
-Track your cryptocurrency holdings/portfolio with an open-source desktop application.<br/>
+Users can track their cryptocurrency holdings/portfolio using an open-source desktop application. A cryptocurrency portfolio application lets you keep track of the current price of any cryptocurrency you own. By using the API, you receive price data and other related information.
+This allows users to maintain their databases and perform adding, deleting, updating, and refreshing API operations.<br/>
 
 ## Pre-Requisites
 *Python, [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter), SQLite*
